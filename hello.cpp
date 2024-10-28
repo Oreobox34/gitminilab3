@@ -7,8 +7,7 @@ int main () {
   cout << "Hello World" << endl;
 
 
-
-
+cout << "HI";
   MyClass a(5);
   cout << a.getX() << endl;
 }
